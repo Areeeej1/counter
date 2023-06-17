@@ -1,0 +1,32 @@
+body
+{
+margin: auto
+}
+.firstDiv{
+  font-size: xx-large;
+  margin-left: 40%;
+  margin-top: 10%;
+  
+}
+header{
+  color: #f17777;
+  font-style: bold;
+  font-size: xx-large;
+}
+button{
+  color: rgb(0, 0, 0);
+  background-color: violet;
+  font-size: xx-large;
+  gap: 17%;
+}
+.result{
+  color: #f17777;
+  font-style: bold;
+  font-size: xx-large;
+}
+.spanred{
+  color: #b80000;
+}
+.spanNotRed{
+  color: #141414;
+}
